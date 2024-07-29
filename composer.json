@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "MyApp\\": "src"
+    }
+  },
+  "require": {
+    "phpmailer/phpmailer": "^6.9",
+    "cboden/ratchet": "v0.4"
+  }
+}
